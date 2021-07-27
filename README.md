@@ -9,4 +9,4 @@ The goal of this project is to build and serve an end-to-end product that delive
 * Prediction of store sales
     * Machine learning approach
     * Deep Learning approach
-*Serving predictions on a web interface
+* Serving predictions on a web interface
